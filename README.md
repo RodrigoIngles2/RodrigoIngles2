@@ -1,5 +1,5 @@
-# HELLO-WORLD
-First repository I've ever created, following the instrunctions of the beginners guide "hello-world" for github
+# HELLO WORLD!
+First repository I've ever created, following the instrunctions of the beginners guide "Introduction to GitHub" from GitHub Skills
 ## ABOUT ME
 1. My name is Rodrigo Pereira Anastácio Inglês
 2. I'm a student at *Instituto Superior Técnico de Lisboa*, in Portugal
