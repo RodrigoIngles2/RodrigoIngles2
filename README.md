@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**RodrigoIngles2/RodrigoIngles2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# HELLO-WORLD
+First repository I've ever created, following the instrunctions of the beginners guide "hello-world" for github
+## ABOUT ME
+1. My name is Rodrigo Pereira Anastácio Inglês
+2. I'm a student at *Instituto Superior Técnico de Lisboa*, in Portugal
+3. Currently taking a degree in **Telecommunications and Computer Science**
+4. Decided to join github to further my skills in software, programming and overall project-developing
+5. My future goal is to achieve mastery and comfort working with multiple coding languages, aswell as be a main contributor/leader to multiple high-skill projects, both mine and of others
+6. My current main goal is to better my learning process and organization, but most importantly work on consistency: I'll log in to github every single day
+7. I like pizza :)
